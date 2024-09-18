@@ -29,7 +29,7 @@ This project is a simple yet elegant analog clock created using HTML, CSS, and J
 
 ## Live Demo
 
-Check out the live demo of the analog clock [here](https://yourusername.github.io/your-repository-name/). *(Replace this link with the actual URL of your GitHub Pages site.)*
+Check out the live demo of the analog clock (https://rahul241407.github.io/Analog_Clock/)
 
 ## Future Enhancements
 
